@@ -11,3 +11,6 @@ To install the required libraries, make sure you have python installed first, th
 Then run the python script to use the program.
 
 If you would prefer to have this program as a standalone executable, I would recommend you use [PyInstaller](https://pypi.org/project/pyinstaller/)
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
